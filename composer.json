@@ -1,0 +1,25 @@
+{
+    "name": "hexlet/code",
+    "bin": [
+
+    ],
+    "type": "lib",
+    "description": "Difference calculator",
+    "homepage": "https://github.com/Maron4ik/php-project-lvl2",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+
+        ]
+    },
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "maron.alexey@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "docopt/docopt": "^1.0"
+    }
+}
