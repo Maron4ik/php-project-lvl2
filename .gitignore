@@ -1,3 +1,4 @@
 /vendor/
 # intellij configs
 .idea/
+.phpunit.result.cache
