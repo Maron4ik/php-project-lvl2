@@ -43,10 +43,7 @@ function getAst(object $before, object $after): array
 
     $keys = array_unique([...$beforeKeys, ...$afterKeys]);
     $sortedKeys = \Functional\sort($keys, function ($left, $right, $collection) {
-        if ($left === $right) {
-            return 0;
-        }
-        return $left > $right ? 1 : -1;
+        return $left <=> $right;
     });
 
     $ast = array_map(function ($key) use ($before, $after) {
