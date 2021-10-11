@@ -2,8 +2,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/maintainability)](https://codeclimate.com/github/Maron4ik/php-project-lvl2/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/test_coverage)](https://codeclimate.com/github/Maron4ik/php-project-lvl2/test_coverage)
-
 <h1>Утилита для сравнения файлов</h1>
 <h1>Установка</h1>
 -установить composer глобально<br>
