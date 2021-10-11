@@ -1,17 +1,11 @@
 Codeclimate:<br>
-<a href="https://codeclimate.com/github/Maron4ik/php-project-lvl2">
-<img src="https://api.codeclimate.com/v1/badges/6c2e84739140fa1ecc2d/maintainability" />
-</a>
+[![Actions Status](https://github.com/Maron4ik/php-project-lvl2/actions/workflows/hexlet-check/bandage.svg)](https://github.com/Maron4ik/php-project-lvl2/actions)
 
 Status of Last Deployment:<br>
-<a href="https://codeclimate.com/github/Maron4ik/php-project-lvl2/maintainability"><img
-src="https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/maintainability" />
-</a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/maintainability)](https://codeclimate.com/github/Maron4ik/php-project-lvl2/maintainability)
 
 Test Coverage:<br>
-<a href="https://codeclimate.com/github/Maron4ik/php-project-lvl2/test_coverage"><img
-src="https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/test_coverage" />
-</a>
+[![Test Coverage](https://api.codeclimate.com/v1/badges/63aa7c8d873f1c303fdc/test_coverage)](https://codeclimate.com/github/Maron4ik/php-project-lvl2/test_coverage)
 
 <h1>Утилита для сравнения файлов</h1>
 <h1>Установка</h1>
